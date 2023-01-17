@@ -1,1 +1,1 @@
-# Queue-Operations-In-Python
+in queue the element which is inserted at the first is popped out. and in our code we have 5 operations named enqueue, dequeue, peek, dispaly, exit. here enqueue inserts the element, dequeue removes the first inserted element into the queue, peek shows you the top element of the queue, display shows the elements of queue and exit throws you out of the program.
